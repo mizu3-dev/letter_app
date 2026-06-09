@@ -17,3 +17,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 kyouhabasukewosimasitatanosikattadesu.demo,o-punnsucu-rugadarukattadesu
+
+#チュートリアル
+- [初めての Flutter アプリ](https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ja#0)
+- [アプリを作成する](https://docs.flutter.dev/learn/pathway/tutorial/create-an-app)
